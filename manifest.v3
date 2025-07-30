@@ -7,17 +7,19 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="JMS2waySSL">1.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">30-07-2025 09:56:54 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-07-30T09:58:15.641288712Z</value>
+  <value name="lastUpdated">2025-07-30T10:04:18.12067947Z</value>
   <value name="wmProjectId">flacaef9437fc68c9186c19f</value>
   <value name="creator">Kumari Rajni Singh</value>
 </Values>

@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/Rajni25Aug
   gitUsername: Rajni25Aug
   gitBranch: main
+- name: JMS2waySSL
+  gitServerName: KusiMSCPProd
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: Rajni25Aug
+  gitBranch: main
 services:
 - serviceName: project.siqagitmcspprod3007.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.operations.actions:DBInsert
   packages:

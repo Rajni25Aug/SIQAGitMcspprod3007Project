@@ -12,6 +12,11 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: Rajni25Aug
   gitBranch: main
+- name: JMSTest
+  gitServerName: KusiMSCPProd
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: Rajni25Aug
+  gitBranch: main
 services:
 - serviceName: project.siqagitmcspprod3007.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.operations.actions:DBInsert
   packages:
